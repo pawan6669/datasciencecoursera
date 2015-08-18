@@ -1,3 +1,6 @@
-## This is a mrkdown file
+---
+output: word_document
+---
 
+## This is a markdown file
 
